@@ -6,6 +6,6 @@ Start from installing pipenv via command line:
 
 pipenv install
 
-Pipfile required Python 3.8 and if that is installed proceed the following to test:
+Pipfile requires Python 3.8 and if that is installed proceed with the following to test:
 
 pipenv run python BoostAI.py http://dev.boostsport.ai/media/in_out.json
